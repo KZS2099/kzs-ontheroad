@@ -45,9 +45,13 @@
 1. 北京
      - 待补充
 2. 河北
+     - 待补充
 3. 内蒙古
+     - 待补充
 4. 山西
+     - 待补充
 5. 天津
+     - 待补充
 
 ## 华东
 1. 安徽
@@ -63,10 +67,12 @@
 6. 上海
      - [沪上的海：崇明一日攻略](https://macin.org/2023/11/27/chong-ming-dao/)
 7. 浙江
+     - [宁波的海：比海更有意思的事](https://www.macin.org/2023/12/04/ning-bo/)
      - [孔坵村：每一个乡村都该有自己的历史](https://www.macin.org/2023/07/17/kong-qiu-cun/)
      - [台州：百越地，梅子黄时雨](https://www.macin.org/2023/07/03/tai-zhou-mei-shi/)
      - [苍岭古道：浙徒步真够野](https://www.macin.org/2023/06/28/cang-ling-gu-dao/)
 8. 台湾
+     - 待补充
 
 ## 华中
 1. 湖北
@@ -77,6 +83,7 @@
      - [筷子小手在长沙，逛菜市场](https://www.macin.org/2020/09/01/zai-chang-sha/)
      - [郴州：广东的后花园](https://www.macin.org/2020/10/20/chen-zhou/)
 3. 河南
+     - 待补充
 
 ## 华南
 1. 广东
