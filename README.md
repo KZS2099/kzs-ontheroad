@@ -6,7 +6,17 @@
 1. 重庆
      - 待补充
 2. 四川
-     - 待补充
+     - [峨眉美食：吃吃喝喝快快乐乐](https://www.macin.org/2023/10/30/e-mei-mei-shi/)
+     - [峨眉山徒步：免门票十公里路线分享](https://www.macin.org/2023/10/24/e-mei-shan-tu-bu/)
+     - [罗目古镇：峨眉山下喜相逢](https://www.macin.org/2023/10/16/luo-mu-gu-zhen/)
+     - [峨眉七日：道行尚浅 归山充电](https://www.macin.org/2023/10/02/e-mei-chong-dian/)
+     - [自贡：盐的另一页](https://www.macin.org/2023/08/08/zi-gong/)
+     - [雅安：炎夏一度热，雨城三分凉](https://www.macin.org/2023/08/01/ya-an/)
+     - [凉山昭觉：这里曾是中国深度贫困的标本](https://www.macin.org/2023/02/07/liang-shan-zhao-jue/)
+     - [西昌：上山下海的阳光之行](https://www.macin.org/2023/01/31/xi-chang-qiong-hai/)
+     - [彭州：五教俱全，堪称成都的光明顶](https://www.macin.org/2023/01/09/peng-zhou-miao-yu/)
+     - [彭州：雪不见山林 阅尽山林](https://www.macin.org/2023/01/02/peng-zhou-kan-xue/)
+     - [李庄：模式化古镇的翘楚](https://www.macin.org/2023/04/10/li-zhuang/)
 3. 云南
      - [昆明：得意忘形，流连忘返](https://www.macin.org/2023/02/20/kun-ming-de-yi-wang-xing/)
      - [斗南花市：我想换个角度看看你](https://www.macin.org/2023/02/13/dou-nan-hua-shi/)
