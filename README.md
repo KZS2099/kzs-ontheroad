@@ -94,6 +94,7 @@
      - [孔坵村：每一个乡村都该有自己的历史](https://www.macin.org/2023/07/17/kong-qiu-cun/)
      - [台州：百越地，梅子黄时雨](https://www.macin.org/2023/07/03/tai-zhou-mei-shi/)
      - [苍岭古道：浙徒步真够野](https://www.macin.org/2023/06/28/cang-ling-gu-dao/)
+     - [东极岛：不完全登陆攻略](https://macin.org/2023/12/12/dong-ji-dao/)
 8. 台湾
      - 待补充
 
