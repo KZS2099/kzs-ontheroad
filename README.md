@@ -8,6 +8,8 @@
 2. 四川
      - [峨眉美食：吃吃喝喝快快乐乐](https://www.macin.org/2023/10/30/e-mei-mei-shi/)
      - [峨眉山徒步：免门票十公里路线分享](https://www.macin.org/2023/10/24/e-mei-shan-tu-bu/)
+     - [泸县：假装在南宋看石刻](https://www.macin.org/2024/01/09/lu-xian-shi-ke/)
+     - [泸县：玉蟾龙头 “福兽”绵延](https://www.macin.org/2024/01/16/long-nao-qiao/)
      - [罗目古镇：峨眉山下喜相逢](https://www.macin.org/2023/10/16/luo-mu-gu-zhen/)
      - [峨眉七日：道行尚浅 归山充电](https://www.macin.org/2023/10/02/e-mei-chong-dian/)
      - [自贡：盐的另一页](https://www.macin.org/2023/08/08/zi-gong/)
@@ -95,6 +97,7 @@
      - [台州：百越地，梅子黄时雨](https://www.macin.org/2023/07/03/tai-zhou-mei-shi/)
      - [苍岭古道：浙徒步真够野](https://www.macin.org/2023/06/28/cang-ling-gu-dao/)
      - [东极岛：不完全登陆攻略](https://macin.org/2023/12/12/dong-ji-dao/)
+     - [温州：湿漉漉和糯叽叽](https://www.macin.org/2023/12/18/wen-zhou/)
 8. 台湾
      - 待补充
 
