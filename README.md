@@ -82,12 +82,15 @@
 1. 安徽
 2. 福建
      - [七夕，我们不吃烛光晚餐，吃福建人](https://www.macin.org/2019/08/10/chi-fu-jian-ren/)
+     - [福建土楼：客家是客还是家？](https://www.macin.org/2024/03/05/tu-lou/)
+     - [平潭岛：风吹来的冬日海边](https://www.macin.org/2024/01/02/ping-tan-dao/)
 3. 江苏
      - [苏北的海：从羊窝头到野鹿荡](https://www.macin.org/2023/11/20/lian-yun-gang/)
      - [扬州：盐搓、奶搓还是红酒搓？](https://www.macin.org/2021/04/27/yang-zhou-cuo-zao/)
      - [一口吃掉淮扬菜的精髓](https://www.macin.org/2021/04/20/huai-yang-cai/)
      - [扬州：繁花柳絮总相宜](https://www.macin.org/2021/04/13/yang-zhou-hao-wan/)
 4. 江西
+   - [南昌：豫章故郡 洪都新府](https://www.macin.org/2024/02/12/nan-chang/)
 5. 山东
 6. 上海
      - [沪上的海：崇明一日攻略](https://macin.org/2023/11/27/chong-ming-dao/)
@@ -114,6 +117,7 @@
 
 ## 华南
 1. 广东
+   - [南澳岛：潮汕蚝田 海风楚楚](https://www.macin.org/2024/03/11/nan-ao-dao/)
 2. 广西
      - [防城港：沿边沿海宜人宜居](https://www.macin.org/2020/12/15/fang-cheng-gang/)
      - [边城靖西的山水与吃喝](https://www.macin.org/2020/12/08/jing-xi-chi-he/)
@@ -126,4 +130,11 @@
      - [澳门：你可知Macau不是我真姓](https://www.macin.org/2023/05/02/macau-day/)
 
 ## 国外：
-- 待补充
+1. 马来西亚
+   - [被春天放逐的游子](https://www.macin.org/2024/03/25/bei-chun-tian-fang-zhu/)
+   - [马来西亚：多元而复杂，交错且单纯](https://www.macin.org/2024/04/02/ma-lai-jian-jie/)
+   - [早安，吉隆坡](https://www.macin.org/2024/04/09/zao-an-ji-long-po/)
+2. 新加坡
+   - 待补充
+3. 泰国
+   - 待补充
