@@ -6,6 +6,7 @@
 1. 重庆
      - 待补充
 2. 四川
+     - [天意谷：华蓥山下透心凉的溪降](https://www.macin.org/2024/08/19/tian-yi-gu/)
      - [峨眉美食：吃吃喝喝快快乐乐](https://www.macin.org/2023/10/30/e-mei-mei-shi/)
      - [峨眉山徒步：免门票十公里路线分享](https://www.macin.org/2023/10/24/e-mei-shan-tu-bu/)
      - [泸县：假装在南宋看石刻](https://www.macin.org/2024/01/09/lu-xian-shi-ke/)
