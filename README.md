@@ -134,6 +134,9 @@
    - [被春天放逐的游子](https://www.macin.org/2024/03/25/bei-chun-tian-fang-zhu/)
    - [马来西亚：多元而复杂，交错且单纯](https://www.macin.org/2024/04/02/ma-lai-jian-jie/)
    - [早安，吉隆坡](https://www.macin.org/2024/04/09/zao-an-ji-long-po/)
+   - [马六甲：湿漉漉的一日城市漫步](https://www.macin.org/2024/05/12/ma-liu-jia/)
+   - [关丹：一直游到海水变蓝](https://www.macin.org/2024/06/18/guan-dan/)
+   - [怡保：南洋山城，有毒馋人慎入](https://www.macin.org/2024/07/14/yi-bao/)
 2. 新加坡
    - 待补充
 3. 泰国
