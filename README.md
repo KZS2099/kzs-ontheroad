@@ -37,6 +37,8 @@
      - [昆明：得意忘形，流连忘返](https://www.macin.org/2023/02/20/kun-ming-de-yi-wang-xing/)
      - [斗南花市：我想换个角度看看你](https://www.macin.org/2023/02/13/dou-nan-hua-shi/)
 4. 贵州
+     - [猫跳峡：据说这藏着贵州的冰河世纪](https://www.macin.org/2024/09/15/mao-tiao-xia/#)
+     - [水银河：重庆人想要的清凉都在这里](https://www.macin.org/2024/08/26/shui-yin-he/#)
      - [遵义：来自无人知晓的我的凝视](https://www.macin.org/2023/03/20/zun-yi-zao-shi/)
      - [隆里古城：戍边城堡建筑的代表](https://www.macin.org/2022/08/15/long-li-gu-cheng/)
 5. 西藏
