@@ -95,6 +95,8 @@
 4. 江西
    - [南昌：豫章故郡 洪都新府](https://www.macin.org/2024/02/12/nan-chang/)
 5. 山东
+   - [荣昌对比淄博，百闻不如一见](https://macin.org/2025/06/10/zi-bo/)
+   - [济南：家家泉水，户户垂杨](https://macin.org/2025/06/17/ji-nan/)
 6. 上海
      - [沪上的海：崇明一日攻略](https://macin.org/2023/11/27/chong-ming-dao/)
 7. 浙江
@@ -122,13 +124,13 @@
 1. 广东
    - [南澳岛：潮汕蚝田 海风楚楚](https://www.macin.org/2024/03/11/nan-ao-dao/)
 2. 广西
-     - [防城港：沿边沿海宜人宜居](https://www.macin.org/2020/12/15/fang-cheng-gang/)
-     - [边城靖西的山水与吃喝](https://www.macin.org/2020/12/08/jing-xi-chi-he/)
-     - [边城靖西，尽是野趣](https://www.macin.org/2020/12/01/jing-xi/)
+   - [防城港：沿边沿海宜人宜居](https://www.macin.org/2020/12/15/fang-cheng-gang/)
+   - [边城靖西的山水与吃喝](https://www.macin.org/2020/12/08/jing-xi-chi-he/)
+   - [边城靖西，尽是野趣](https://www.macin.org/2020/12/01/jing-xi/)
 3. 香港
-     - [青山寺：在香港除了购物，还可以徒步](https://www.macin.org/2023/05/29/hikinghongkong/)
-     - [香港：它变了，它没变](https://www.macin.org/2023/05/08/hongkong51/)
-     - [香港到重庆1538公里](https://www.macin.org/2019/08/15/chong-qing-dao-xiang-gang/)
+   - [青山寺：在香港除了购物，还可以徒步](https://www.macin.org/2023/05/29/hikinghongkong/)
+   - [香港：它变了，它没变](https://www.macin.org/2023/05/08/hongkong51/)
+   - [香港到重庆1538公里](https://www.macin.org/2019/08/15/chong-qing-dao-xiang-gang/)
 4. 澳门
      - [澳门：你可知Macau不是我真姓](https://www.macin.org/2023/05/02/macau-day/)
 
@@ -141,6 +143,6 @@
    - [关丹：一直游到海水变蓝](https://www.macin.org/2024/06/18/guan-dan/)
    - [怡保：南洋山城，有毒馋人慎入](https://www.macin.org/2024/07/14/yi-bao/)
 2. 新加坡
-   - 待补充
+   - [柔佛海峡：新加坡跨国徒步攻略](https://macin.org/2025/01/06/singapore-hiking/)
 3. 泰国
    - 待补充
